@@ -30,8 +30,8 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ### My Discord 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/778778741886418965
-                            )](https://discord.com/users/778778741886418965)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/911381778621677609
+                            )](https://discord.com/users/911381778621677609)
 
 ---
 
@@ -39,7 +39,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zcuqlk2f95e0fhxozipv7i0gh&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zcuqlk2f95e0fhxozipv7i0gh&redirect=true)
 ---
 ### My Socials
-<a href="https://discord.com/users/778778741886418965">
+<a href="https://discord.com/users/911381778621677609">
   <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCLuzUp85WGR6JUxF3RBWeMA">
