@@ -2,8 +2,6 @@
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg">
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit.
-
 -   :man: Pronouns: he/him.
 
 -   :pencil: VS Code / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
