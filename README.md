@@ -1,4 +1,4 @@
-## Heya, Ruthless here! :wave:
+## WSG, Its Ruthless Cuh! :wave:
 
 <img align="right" width="50%" src="https://github.com/DaRuthlessPWR/stats/blob/master/generated/overview.svg">
 
