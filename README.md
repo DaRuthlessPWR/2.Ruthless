@@ -29,30 +29,24 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 ### My Discord 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/778778741886418965
-                            )](https://discord.com/users/778778741886418965)
+                            )](https://discord.com/users/1052344871836454952)
 
 ---
 
-### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zcuqlk2f95e0fhxozipv7i0gh&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zcuqlk2f95e0fhxozipv7i0gh&redirect=true)
----
 ### My Socials
-<a href="https://discord.com/users/778778741886418965">
+<a href="https://discord.com/users/1052344871836454952">
   <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
-<a href="https://www.youtube.com/@alekisok">
-  <img align="left" alt="Youtube" width="20px" src="https://simpleicons.org/icons/youtube.svg" />
+<a href="(https://www.twitch.tv/dapwr)">
+  <img align="left" alt="Twitch" width="20px" src="https://simpleicons.org/icons/twitch.svg" />
 </a>
-<a href="https://www.roblox.com/users/2294290965/profile">
+<a href="https://www.roblox.com/users/3608689005/profile">
   <img align="left" alt="Roblox" width="20px" src="https://simpleicons.org/icons/roblox.svg" />
 </a>
-<a href="https://open.spotify.com/user/zcuqlk2f95e0fhxozipv7i0gh">
-  <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
-</a>
-<a href="https://twitter.com/alekisok">
+<a href="https://twitter.com/DaRuthlessPWR">
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/twitter.svg" />
   </a>
-<a href="https://replit.com/@aleksgroupfinder">
+<a href="https://replit.com/@RealDeathDemon">
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/replit.svg" />
 <a href="https://instagram.com/alekisok">
   <img align="left" alt = "Instagram" width="20px" src="https://simpleicons.org/icons/instagram.svg" />
