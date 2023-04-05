@@ -4,7 +4,7 @@
 
 -   :man: Pronouns: he/him.
 
--   :pencil: VS Code / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/
+-   :pencil: VS Code / SCSS / HTML/ Bash / JSON / Text / Python / JavaScript/ Lua/ 
 
 ---
 
