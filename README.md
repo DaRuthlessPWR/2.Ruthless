@@ -47,5 +47,5 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
   </a>
 <a href="https://replit.com/@RealDeathDemon">
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/replit.svg" />
-<a href="https://instagram.com/alekisok">
+<a href="https://instagram.com/2.ruthlesspwr">
   <img align="left" alt = "Instagram" width="20px" src="https://simpleicons.org/icons/instagram.svg" />
