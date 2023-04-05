@@ -1,6 +1,6 @@
 ## Heya, Ruthless here! :wave:
 
-<img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg">
+<img align="right" width="50%" src="https://github.com/DaRuthlessPWR/Github-Stats/blob/master/generated/overview.svg">
 
 -   :man: Pronouns: he/him.
 
@@ -28,8 +28,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ### My Discord 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1052344871836454952
-                            )](https://discord.com/users/1052344871836454952)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1052344871836454952)](https://discord.com/users/1052344871836454952)
 
 ---
 
@@ -37,7 +36,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 <a href="https://discord.com/users/1052344871836454952">
   <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
-<a href="(https://www.twitch.tv/dapwr)">
+<a href="https://www.twitch.tv/dapwr">
   <img align="left" alt="Twitch" width="20px" src="https://simpleicons.org/icons/twitch.svg" />
 </a>
 <a href="https://www.roblox.com/users/3608689005/profile">
