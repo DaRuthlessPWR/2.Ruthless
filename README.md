@@ -22,7 +22,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ### Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/alektherblxdev/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/2ruthless/count.svg)
 
 ---
 
