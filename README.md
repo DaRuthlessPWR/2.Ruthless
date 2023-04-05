@@ -1,4 +1,4 @@
-## Heya, Alek here! :wave:
+## Heya, Ruthless here! :wave:
 
 <img align="right" width="50%" src="https://github.com/Alektherblxdev/Github-Stats/blob/master/generated/overview.svg">
 
@@ -28,7 +28,7 @@ HTML   1.30 hours      ███▓▓▓░░░░░░░░░░░░░
 
 ### My Discord 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/778778741886418965
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1052344871836454952
                             )](https://discord.com/users/1052344871836454952)
 
 ---
